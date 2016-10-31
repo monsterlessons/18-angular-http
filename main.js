@@ -25,5 +25,6 @@ app.controller('mainCtrl', function ($http, $scope) {
         $scope.books.push(data);
         $scope.book = {};
       });
-  };
+  });
+}
 });
