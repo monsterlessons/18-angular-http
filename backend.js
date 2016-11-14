@@ -9,6 +9,7 @@ app.use(bodyParser.urlencoded({
 }));
 
 app.use(cors());
+app.use(express.static('./'));
 
 var books = [
   {
