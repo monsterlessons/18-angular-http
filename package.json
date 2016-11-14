@@ -1,0 +1,24 @@
+{
+  "name": "18-angular-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backend.js",
+  "dependencies": {
+    "cors": "^2.8.1",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superedriver/18-angular-http.git"
+  },
+  "author": "Tema",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superedriver/18-angular-http/issues"
+  },
+  "homepage": "https://github.com/superedriver/18-angular-http#readme"
+}
